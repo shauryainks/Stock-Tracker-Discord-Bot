@@ -1,0 +1,5 @@
+discord
+yfinance
+matplotlib
+pytest
+pip install discord-py-slash-command
