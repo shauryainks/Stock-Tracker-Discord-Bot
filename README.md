@@ -24,7 +24,7 @@ This Discord bot provides information about US stock market prices and related d
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shauryainks/discord-stock-bot.git
+   git clone https://github.com/Shauryainks/stock-tracker-discord-bot.git
    cd discord-stock-bot
 Install dependencies:
 
